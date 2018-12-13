@@ -20,6 +20,7 @@ public class Recognition01_main {
 		service.setIamCredentials(iamOptions);
 
 
+		
 
 DetectFacesOptions detectFacesOptions = null;
 try {
